@@ -1,4 +1,4 @@
-# Tumor detection using deep learning(CNN-Keras)   
+# Tumor detection using deep learning(Keras)   
 
 ### Data: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection    
 
